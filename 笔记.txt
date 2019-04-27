@@ -1,0 +1,24 @@
+1.title显示
+2.css样式引入
+3.css选择器与选择器权重
+4.滚动条消失
+5.快捷键：ctrl+D
+6.display
+7.浮动
+8.居中
+9.文字竖直居中
+10.盒模型
+11.伪类与伪元素
+12.背景图片的设置
+13.定位
+14.marigin padding
+15.form
+16.背景颜色渐变  linear-gradient：线性渐变
+17.border圆角
+18.input样式处理  outline border text-indent
+19.overflow
+20.文字属性 line-height text-align font-size font-weight
+21.文字环绕图片
+22.雪碧图
+23.盒模型的转化
+24.背景定位
